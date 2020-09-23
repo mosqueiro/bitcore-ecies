@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-ecies.git"
+    "url": "https://github.com/mosqueiro/bitcore-ecies.git"
   },
   "keywords": [
     "bitcoin",
@@ -27,9 +27,9 @@
   "author": "BitPay",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bitpay/bitcore-ecies/issues"
+    "url": "https://github.com/mosqueiro/bitcore-ecies/issues"
   },
-  "homepage": "https://github.com/bitpay/bitcore-ecies",
+  "homepage": "https://github.com/mosqueiro/bitcore-ecies",
   "devDependencies": {
     "assert": "^1.1.2",
     "bitcore-build": "git://github.com/bitpay/bitcore-build.git",
@@ -40,6 +40,6 @@
   },
   "dependencies": {
     "aes": "^0.1.0",
-    "bitcore-lib": "^0.14.0"
+    "bitcore-lib": "https://github.com/mosqueiro/bitcore-lib-zcore.git"
   }
 }
